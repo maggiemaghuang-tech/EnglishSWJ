@@ -1,0 +1,7 @@
+{
+  "name": "LinguaFlow - Dialogue Master",
+  "description": "A focused language practice app to master short dialogues with AI-driven pronunciation and intonation feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
